@@ -1,0 +1,2 @@
+# GoHard
+Examples in Go
