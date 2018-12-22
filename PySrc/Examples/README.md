@@ -4,3 +4,4 @@ A `try` statement may have more than one except clause, to specify handlers for 
 - At most 1 handler will be executed.
 - Handlers only handle exceptions that occur in the corresponding try clause, not in other handlers of the same `try` statement.
 - An except clause may name multiple exceptions as parenthesized tuple, e.g.
+
